@@ -1,0 +1,16 @@
+{
+  "devDependencies": {
+    "docdash": "^1.2.0",
+    "fib-swagger": "^1.0.0",
+    "jsdoc": "^3.6.6"
+  },
+  "name": "fib-docker",
+  "version": "1.0.0",
+  "main": "lib/index.js",
+  "scripts": {
+    "gen-docs": "jsdoc --configure .jsdoc.json"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
